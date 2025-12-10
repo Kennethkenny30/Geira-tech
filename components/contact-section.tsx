@@ -160,7 +160,7 @@ export function ContactSection() {
     {
       icon: Mail,
       title: "Email",
-      value: "contact@geiratech.com",
+      value: "geira@tech.com",
       link: "mailto:contact@geiratech.com",
       description: "Réponse en 24h",
     },
